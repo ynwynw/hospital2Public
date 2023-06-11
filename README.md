@@ -2,7 +2,7 @@
 
 **接毕业设计和论文**
 
-**[博客地址](https://blog.csdn.net/2303_76227485/article/details/131129095)**
+**[博客地址](https://blog.csdn.net/2303_76227485/article/details/131155870)**
 
 **视频演示：
 [B站视频演示](https://space.bilibili.com/384537280)**
